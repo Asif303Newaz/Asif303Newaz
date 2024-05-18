@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Analysis and Data Science. I love diving into data, uncovering insights, and building predictive models.
 - 🌱 I’m currently learning Machine Learning and various tools and technologies related to data science, such as Python, R, and more.
 - 💞️ I’m looking to collaborate on Data-driven projects, machine learning models, and any exciting ventures that involve data analysis. I am eager to work with skilled teams and reputable organizations to solve real-world problems.
-- 📫 How to reach me Email: newaz303asif@gmail.com ; Phone: +8801575100704
+- 📫 Email: newaz303asif@gmail.com ; Phone: +8801575100704
